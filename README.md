@@ -9,10 +9,10 @@ This screenshot uses the File-Icon package. This theme also includes recolors fo
 ### Credit
 
 This theme is based on the theme created for the screenshots on the Atom IDE product page:
-Link to Atom IDE
+[Atom IDE](https://ide.atom.io)
 
 And is also based on the One Dark UI theme that comes with Atom.
-Link to One Dark UI
+[One Dark UI](https://atom.io/themes/one-dark-ui)
 
 
 ### Install
