@@ -1,15 +1,23 @@
-## One Dark UI theme [![Build Status](https://travis-ci.org/atom/one-dark-ui.svg?branch=master)](https://travis-ci.org/atom/one-dark-ui)
+## Pulsar Dark UI theme
 
-A dark UI theme that adapts to most syntax themes.
+A dark purple UI theme that adapts to most syntax themes.
 
-![One dark UI](https://cloud.githubusercontent.com/assets/378023/26246818/08255b76-3cd6-11e7-9f6d-6ae3e16a89a9.png)
+![Pulsar Dark UI]
 
-> The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
+This screenshot uses the File-Icon package. This theme also includes recolors for those icons.
+
+### Credit
+
+This theme is based on the theme created for the screenshots on the Atom IDE product page:
+Link to Atom IDE
+
+And is also based on the One Dark UI theme that comes with Atom.
+Link to One Dark UI
 
 
 ### Install
 
-This theme comes bundled with Atom and can be activated by going to the __Settings > Themes__ section and selecting "One Dark" from the __UI Themes__ drop-down menu.
+Install Instructions
 
 
 ### Settings
@@ -20,7 +28,7 @@ In the theme settings you can:
 - Choose between 3 __Tab Sizing__ modes.
 - Hide the  __dock buttons__.
 
-To make changes, go to `Settings > Themes > One Dark UI > Settings` or the cog icon next to the theme picker.
+To make changes, go to `Settings > Themes > Pulsar Dark UI > Settings` or the cog icon next to the theme picker.
 
 
 ### Customize
